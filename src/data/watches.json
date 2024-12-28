@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Watch Case 1",
+      "image": "https://drive.google.com/file/d/1Zzt6ODkZ3NskcdCwkHWGcy3O9yqc5sWU/view?usp=sharing",
+      "price": "$399"
+    },
+    {
+      "id": 2,
+      "name": "Watch Case 2",
+      "image": "https://drive.google.com/file/d/18t-2CcSTzD7Gsz2r2YYgmzc6pGe1gci7/view?usp=sharing",
+      "price": "$499"
+    },
+    {
+      "id": 3,
+      "name": "Band 1",
+      "image": "https://drive.google.com/file/d/1lalW9Or7Pmhdn3LHulDO8rYfk1XEnjwE/view?usp=sharing",
+      "price": "$49"
+    },
+    {
+        "id": 1,
+        "name": "Watch Case 1",
+        "image": "https://drive.google.com/file/d/1T8SESvazWD7dv53R8TxmKff11TU3wzIt/view?usp=sharing",
+        "price": "$399"
+      },
+      {
+        "id": 2,
+        "name": "Watch Case 2",
+        "image": "https://drive.google.com/file/d/18ITwGYs70rTBQbod40CBsoh3Fo8_B8n4/view?usp=sharing",
+        "price": "$499"
+      },
+      {
+        "id": 3,
+        "name": "Band 1",
+        "image": "https://drive.google.com/file/d/1grOlAwR8zZJoQQ6Zz3S07xX-fdkRVZYa/view?usp=sharing",
+        "price": "$49"
+      },
+      {
+        "id": 3,
+        "name": "Band 2",
+        "image": "https://drive.google.com/file/d/18jsFVswKgOswmfKpvKhIQjB_qNS_wBM4/view?usp=sharing",
+        "price": "$49"
+      }
+  ]
+  
